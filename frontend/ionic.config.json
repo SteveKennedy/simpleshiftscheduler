@@ -1,0 +1,7 @@
+{
+  "name": "simpleshiftscheduler",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
